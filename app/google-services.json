@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "714988164039",
+    "project_id": "anlat-bakalim-ee4d6",
+    "storage_bucket": "anlat-bakalim-ee4d6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:714988164039:android:4380752a8f8dd205acbfe2",
+        "android_client_info": {
+          "package_name": "com.furkanayaz.anlatbakalimcizbakalim"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "714988164039-bunepg4rq4rid9h6tialf70en4oj8s9l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3YU6eCSzByWKnxBAZ6LRlU1IjUB5omj8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "714988164039-bunepg4rq4rid9h6tialf70en4oj8s9l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
